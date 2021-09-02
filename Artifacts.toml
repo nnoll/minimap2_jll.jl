@@ -4,7 +4,7 @@ git-tree-sha1 = "2acf4bf1427e0f1b123d16ac60bea9e7580a5513"
 os = "macos"
 
     [[minimap2.download]]
-    sha256 = "b269e724db685edc314a8398026d81dfd75fcc79c16d4b2f06ea350fd7027dd1"
+    sha256 = "2bb1199dcb3e2f197ca90cb31ebba049999d003c3318f2ffcaea7c920cb434a3"
     url = "https://github.com/nnoll/minimap2_jll.jl/releases/download/minimap2-v2.22.0+0/minimap2.v2.22.0.x86_64-apple-darwin.tar.gz"
 [[minimap2]]
 arch = "x86_64"
@@ -13,7 +13,7 @@ libc = "glibc"
 os = "linux"
 
     [[minimap2.download]]
-    sha256 = "6f2f112c3cd2d888372bc378b87b5242dfca1764b621df70be35183ee9d53509"
+    sha256 = "8c7c295afc590e8ef09013aa8ead8e71dd73d20643f4c2a598daf69701fe6142"
     url = "https://github.com/nnoll/minimap2_jll.jl/releases/download/minimap2-v2.22.0+0/minimap2.v2.22.0.x86_64-linux-gnu.tar.gz"
 [[minimap2]]
 arch = "x86_64"
@@ -22,5 +22,5 @@ libc = "musl"
 os = "linux"
 
     [[minimap2.download]]
-    sha256 = "8a6e1ab198ba05ea3477525ef02253de7fb79163087e313636cd3f77cc2ec56e"
+    sha256 = "8a2fe06b1a112f9e3c26d84b1b7a598f058f579cf90086128e8d373ee3d0c18b"
     url = "https://github.com/nnoll/minimap2_jll.jl/releases/download/minimap2-v2.22.0+0/minimap2.v2.22.0.x86_64-linux-musl.tar.gz"
